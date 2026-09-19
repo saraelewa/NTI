@@ -2,5 +2,5 @@
 
 print("its working")
 
-def new_function(xy= 15):
+def new_function(xy= 10):
     print(xy)
