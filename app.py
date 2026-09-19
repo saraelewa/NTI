@@ -3,4 +3,4 @@
 print("its working")
 
 def new_function(xy= 10):
-    print(xy)
+    print("AY 7AGA")
